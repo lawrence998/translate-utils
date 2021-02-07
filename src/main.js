@@ -7,12 +7,6 @@ const {
 const path = require('path');
 const CONFIG = require('./config');
 const md5 = require('md5');
-// const mysKeyTranslate = require("./utils/transRequest");
-
-// const translate = new MysKeyTranslate({
-//     appid: "20210206000692080",  // 你的appid  去百度开发者平台查看 http://api.fanyi.baidu.com/doc/21
-//     secret: "O2V9HESoFJlqnrhyMfd7", // 你的密钥
-// });
 
 
 /**
